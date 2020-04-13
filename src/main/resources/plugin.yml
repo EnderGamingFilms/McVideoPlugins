@@ -1,0 +1,9 @@
+name: VoidSteps
+main: me.endergaming.voidsteps.VoidSteps
+version: 1.4
+api-version: 1.13
+softdepend: [CoreProtect]
+commands:
+  voidsteps:
+    aliases: [voidstep, vstep, vs]
+    permission: voidsteps.admin
