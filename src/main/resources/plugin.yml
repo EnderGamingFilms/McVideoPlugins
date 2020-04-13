@@ -1,0 +1,11 @@
+name: FallFaster
+version: ${project.version}
+main: com.endergaming.fallfaster.FallFaster
+api-version: 1.13
+authors: [EnderGamingFilms]
+description: The more you fall the faster you get.
+
+commands:
+  fallfaster:
+    aliases: [fallfast, ff]
+    permission: fallfaster.admin
