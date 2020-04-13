@@ -1,0 +1,11 @@
+name: MobCrafting
+version: ${project.version}
+main: com.endergaming.mobcrafting.MobCrafting
+api-version: 1.13
+authors: [EnderGamingFilms]
+description: Will summon a random mob when you craft.
+
+commands:
+  mobcrafting:
+    aliases: [mobcraft, mcraft, mcr]
+    permission: mobcrafting.admin
